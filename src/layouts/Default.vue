@@ -13,7 +13,11 @@
         />
 
         <br />Made with ⌛️ by
-        <a class="link" href="https://www.linkedin.com/in/tarundhamor/">Tarun Dhamor</a>
+        <a
+          class="link"
+          href="https://www.linkedin.com/in/tarundhamor/"
+          target="_blank"
+        >Tarun Dhamor</a>
       </p>
     </div>
   </main>
@@ -46,9 +50,9 @@ body {
 }
 
 .link {
-  border: 2px solid #00ffa5;
+  border: 0px solid #00ffa5;
   padding: 3px;
-  color: #ffffff;
-  text-decoration: none;
+  color: #00ffa5;
+  text-decoration: underline;
 }
 </style>

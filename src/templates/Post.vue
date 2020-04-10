@@ -40,5 +40,6 @@ query Post ($path: String!) {
 
 .post-content {
   font-size: 20px;
+  word-break: break-word;
 }
 </style>

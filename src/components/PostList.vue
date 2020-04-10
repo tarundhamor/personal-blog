@@ -30,9 +30,9 @@ export default {
 
 .read {
   padding: 4px;
-  color: #333;
-  text-decoration: none;
-  border: 2px solid #00ffa5;
+  color: #00ffa5;
+  text-decoration: underline;
+  border: 0px solid #00ffa5;
 }
 
 .visuallyhidden {
